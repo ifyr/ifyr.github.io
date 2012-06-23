@@ -14,8 +14,8 @@ a:focus { outline: none; }
 *******************************************************************************/
 body { box-sizing: border-box; color:#333; background: #eee; font-size: 16px; font-family: SimSun, 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif; line-height: 1.5; -webkit-font-smoothing: antialiased; }
 h1, h2, h3, h4, h5, h6 { margin: 5px 0; font-weight: 700; color:#333; font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif; letter-spacing: -1px; }
-h1 { font-size: 24px;}
-h2 { font-size: 24px; }
+h1 { font-size: 21px;}
+h2 { font-size: 21px; }
 h3 { font-size: 16px; }
 p { margin: 5px 0; }
 footer p { color: #333; }
@@ -41,7 +41,7 @@ Small Device Styles
 @media screen and (max-width: 480px) {
   body { font-size:14px; }
   .inner { min-width: 320px; max-width: 480px; }
-  #project_title { font-size: 24px; }
+  #project_title { font-size: 16px; }
   h1 { font-size: 16px; }
   h2 { font-size: 16px; }
   h3 { font-size: 14px; }
