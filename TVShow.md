@@ -7,7 +7,7 @@ The Big Bang Theory is an American television sitcom created by Chuck Lorre and 
 
 ## Photo of the Logo of the Show
 ![The Big Bang Theory Series' logo]
-(https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/220px-TBBT_logo.svg.png)
+(./TBBT_logo.png)
 
 ## Summary of Basic Statistics
 
