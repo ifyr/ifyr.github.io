@@ -17,11 +17,11 @@ image::./TBBT_logo.png
 % Summary of Basic Statistics
 "The Big Bang Theory" experienced a modest start, ranking 68th in its first season and climbing to 40th by its second. By the third season, it emerged as CBS's highest-rated show, peaking at 12.83 million viewers, and it ascended to become television's top-rated comedy in its fourth season. In the sixth season, the episode "The Bakers field" set a new high with 20 million viewers. Throughout the 2012-13 season, the show led syndication ratings, surpassing long-time leaders like “Judge Judy” and “Wheel of Fortune,” though it was overtaken by “Judge Judy” again in the 2013-14 season.
 
-describe Season Viewer of TBBT
+describe "Season Viewer of TBBT"
   Season int
   Avg. viewers float
 
-values Season Viewer of TBBT
+values "Season Viewer of TBBT"
   1 8.31
   2 10.03
   3 14.22
